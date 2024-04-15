@@ -4,7 +4,7 @@ title AstroRift Game Menu
 :menu
 cls
 echo **********************************************
-echo *         Welcome to AstroRift Game         *
+echo *         Welcome to AstroRift               *
 echo **********************************************
 echo.
 echo 1. Start Game
@@ -31,7 +31,7 @@ goto menu
 :credits
 cls
 echo Credits:
-echo Game developed by YourName
+echo Game developed by Bombsquadx2009
 echo.
 echo Special thanks to...
 rem Add credits here
